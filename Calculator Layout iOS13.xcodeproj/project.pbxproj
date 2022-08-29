@@ -61,7 +61,6 @@
 		AD0C513522CA22D500AADC4D /* Calculator Layout iOS13 */ = {
 			isa = PBXGroup;
 			children = (
-				AD0C513A22CA22D500AADC4D /* ViewController.swift */,
 				F6CD3EFF28B5456400E77DC6 /* Controller */,
 				F6CD3EFE28B5455A00E77DC6 /* View */,
 				F6CD3EFD28B5455200E77DC6 /* Model */,
@@ -93,6 +92,7 @@
 		F6CD3EFF28B5456400E77DC6 /* Controller */ = {
 			isa = PBXGroup;
 			children = (
+				AD0C513A22CA22D500AADC4D /* ViewController.swift */,
 			);
 			path = Controller;
 			sourceTree = "<group>";
