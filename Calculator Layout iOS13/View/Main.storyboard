@@ -64,6 +64,7 @@
                                                 </state>
                                                 <connections>
                                                     <action selector="resetButton" destination="ey4-0b-agg" eventType="touchUpInside" id="Ent-IZ-OAH"/>
+                                                    <action selector="resetButton:" destination="ey4-0b-agg" eventType="touchUpInside" id="CHx-Ve-DWy"/>
                                                 </connections>
                                             </button>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="G64-9b-ycy">
@@ -73,6 +74,9 @@
                                                 <state key="normal" title="÷">
                                                     <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 </state>
+                                                <connections>
+                                                    <action selector="symbolSelected:" destination="ey4-0b-agg" eventType="touchUpInside" id="Nih-A2-T4v"/>
+                                                </connections>
                                             </button>
                                         </subviews>
                                     </stackView>
@@ -119,6 +123,9 @@
                                                 <state key="normal" title="×">
                                                     <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 </state>
+                                                <connections>
+                                                    <action selector="symbolSelected:" destination="ey4-0b-agg" eventType="touchUpInside" id="IR5-U0-3f0"/>
+                                                </connections>
                                             </button>
                                         </subviews>
                                     </stackView>
@@ -165,6 +172,9 @@
                                                 <state key="normal" title="-">
                                                     <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 </state>
+                                                <connections>
+                                                    <action selector="symbolSelected:" destination="ey4-0b-agg" eventType="touchUpInside" id="teg-vD-bVa"/>
+                                                </connections>
                                             </button>
                                         </subviews>
                                     </stackView>
@@ -213,6 +223,7 @@
                                                 </state>
                                                 <connections>
                                                     <action selector="symbolPressed:" destination="ey4-0b-agg" eventType="touchUpInside" id="aQQ-7n-Xiu"/>
+                                                    <action selector="symbolSelected:" destination="ey4-0b-agg" eventType="touchUpInside" id="5Vt-vG-xRN"/>
                                                 </connections>
                                             </button>
                                         </subviews>
