@@ -2,8 +2,8 @@
 //  ViewController.swift
 //  Calculator Layout iOS13
 //
-//  Created by Angela Yu on 01/07/2019.
-//  Copyright © 2019 The App Brewery. All rights reserved.
+//  Created by Stewart Clay.
+//  Copyright © 2022 STEWARTCLAY. All rights reserved.
 //
 
 import UIKit
@@ -28,9 +28,7 @@ class ViewController: UIViewController {
     }
     
     @IBAction func equal(_ sender: UIButton) {
-        cal.resultNumber = String(cal.calculation())
-        textLabel.text = cal.resultNumber
-        cal.numAfterResult = "";
+        textLabel.text = cal.equal()
     }
     @IBAction func resetButton(_ sender: UIButton) {
         cal.resetCalculator()
