@@ -1,6 +1,6 @@
 ## Portrait
 
-![Portrait]
+<img src="images/Portrait.PNG">
 
 ## Landscape
 <img src="images/Landscape.PNG">
