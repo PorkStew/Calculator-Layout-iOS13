@@ -1,3 +1,5 @@
+# Fully Functional Calculator App
+
 ## Portrait
 
 <img src="images/Portrait.PNG" width=600px;>
