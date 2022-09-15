@@ -3,7 +3,7 @@
 ![Portrait]
 
 ## Landscape
-<img src="images/Landscape.png">
+<img src="images/Landscape.PNG">
 
 ## Coding Stack
 <img src="Languages/Swift_logo.png" width=200px; height=50px;>
