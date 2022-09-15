@@ -1,9 +1,9 @@
 ## Portrait
 
-<img src="images/Portrait.PNG">
+<img src="images/Portrait.PNG" width=600px;>
 
 ## Landscape
-<img src="images/Landscape.PNG">
+<img src="images/Landscape.PNG" width=600px;>
 
 ## Coding Stack
 <img src="Languages/Swift_logo.png" width=200px; height=50px;>
