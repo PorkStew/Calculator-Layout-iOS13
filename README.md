@@ -6,7 +6,7 @@
 ![Landscape]
 
 ## Coding Stack
-<img src="Languages/Swift_logo.svg" width=50px; height=50px;>
+<img src="Languages/Swift_logo.png" width=50px; height=50px;>
 
 ## What was used
 
